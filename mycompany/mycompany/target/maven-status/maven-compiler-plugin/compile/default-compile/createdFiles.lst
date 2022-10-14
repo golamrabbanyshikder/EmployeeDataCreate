@@ -1,0 +1,5 @@
+com\example\mycompany\controller\EmployeeController.class
+com\example\mycompany\domain\Employee.class
+com\example\mycompany\repository\EmployeeRepository.class
+com\example\mycompany\MycompanyApplication.class
+com\example\mycompany\service\EmployeeService.class
